@@ -132,6 +132,18 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+
+}
+#jad-abdallah-cover {
+    background-image: url("http://i.imgur.com/RWwtlF7.jpg");
+}
+
+#jad-abdallah-card {
+    background-image: url("http://i.imgur.com/RWwtlF7.jpg");
+}
+
+
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
@@ -139,6 +151,7 @@ a:visited {
 #aly-alidina-card {
     background-image: url("http://imgur.com/zLQFVKP.jpg");
 }
+
 
 
 #irina-afanaseva-cover {
@@ -486,7 +499,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5029,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
